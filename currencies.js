@@ -12,7 +12,7 @@ module.exports = [
         "code": "USN",
         "number": 997,
         "digits": 2,
-        "currency": "US Dollar (Next day)",
+        "currency": "US Dollar",
         "countries": [
             "United States of America (The)"
         ]
