@@ -6,6 +6,9 @@ module.exports = [
         "currencyExchangeRate": 1
     },
     {
+        test: 'test'
+    },
+    {
         "code": "USD",
         "number": 2,
         "currency": "US Dollar",
