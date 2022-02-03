@@ -1,52 +1,21 @@
 module.exports = [
     {
         "code": "UAH",
-        "number": 980,
-        "digits": 2,
+        "number": 1,
         "currency": "Hryvnia",
-        "countries": [
-            "Ukraine"
-        ]
+        "currencyExchangeRate": 1
     },
     {
-        "code": "USN",
-        "number": 997,
-        "digits": 2,
+        "code": "USD",
+        "number": 2,
         "currency": "US Dollar",
-        "countries": [
-            "United States of America (The)"
-        ]
+        "currencyExchangeRate": 28.41
     },
     {
         "code": "EUR",
-        "number": 978,
-        "digits": 2,
+        "number": 3,
         "currency": "Euro",
-        "countries": [
-            "andorra",
-            "austria",
-            "belgium",
-            "cyprus",
-            "estonia",
-            "finland",
-            "france",
-            "germany",
-            "greece",
-            "ireland",
-            "italy",
-            "kosovo",
-            "luxembourg",
-            "malta",
-            "monaco",
-            "montenegro",
-            "netherlands",
-            "portugal",
-            "san marino",
-            "slovakia",
-            "slovenia",
-            "spain",
-            "vatican city"
-        ]
+        "currencyExchangeRate": 32.09
     }
 ];
 
